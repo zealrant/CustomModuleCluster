@@ -41,8 +41,6 @@
 /*  41:    */   public static final String ALG_GA_CROSSOVER_PROB = "GACrossoverProbability";
 /*  42:    */   public static final String ALG_GA_MUTATION_PROB = "GAMutationProb";
 /*  43:    */   public static final String ALG_GA_NUM_GENERATIONS = "GANumGenerations";
-				//TODO: 추가했음
-				public static final String ALG_JOON2ARCHIVEALGORITM = "2Archive";
 				
 				
 /*  44:    */   public static final String ALG_NAHC = "NAHC";

@@ -13,9 +13,7 @@
 /*  13: 55 */     addItem("SAHC", "bunch.SteepestAscentHillClimbingClusteringMethod");
 /*  14: 56 */     addItem("GA", "bunch.GAClusteringMethod");
 /*  15: 57 */     addItem("Exhaustive", "bunch.OptimalClusteringMethod");
-//TODO:	
-				  addItem("UserCustomCluster", "bunch.Joon2ArchiveClustering");	
-				  
+
 /*  16:    */   }
 /*  17:    */   
 /*  18:    */   public String getDefaultMethod()

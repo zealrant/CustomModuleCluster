@@ -11,6 +11,7 @@
 /* 11:49 */     addItem("Dotty", "bunch.DotGraphOutput");
 /* 12:50 */     addItem("Text", "bunch.TXTGraphOutput");
 /* 13:51 */     addItem("GXL", "bunch.gxl.io.GXLGraphOutput");
+				addItem("RSF","bunch.RSFGraphOutput");
 /* 14:   */   }
 /* 15:   */   
 /* 16:   */   public GraphOutput getOutput(String name)
